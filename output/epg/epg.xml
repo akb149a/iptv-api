@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250501222549 +0800">
+<tv date="20250501231941 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -16962,6 +16962,12 @@
 	<programme channel="黑莓动画" start="20250502024100 +0800" stop="20250502041100 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250502041100 +0800" stop="20250502054100 +0800">
+		<title lang="zh">太空夺旗</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250502054100 +0800" stop="20250502065900 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -16970,6 +16976,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250502023200 +0800" stop="20250502041700 +0800">
 		<title lang="zh">相棒剧场版2</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250502041700 +0800" stop="20250502054900 +0800">
+		<title lang="zh">侠路相逢</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250502054900 +0800" stop="20250502073200 +0800">
+		<title lang="zh">悠长下课后</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -17157,6 +17169,12 @@
 	<programme channel="龙岩综合" start="20250502231500 +0800" stop="20250502235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
+	<channel id="新动漫">
+		<display-name lang="zh">新动漫</display-name>
+	</channel>
 	<channel id="四川科教">
 		<display-name lang="zh">四川科教</display-name>
 	</channel>
@@ -22344,105 +22362,6 @@
 	<programme channel="辽宁教育青少" start="20250502233400 +0800" stop="20250502235959 +0800">
 		<title lang="zh">剧场</title>
 	</programme>
-	<channel id="新动漫">
-		<display-name lang="zh">新动漫</display-name>
-	</channel>
-	<programme channel="新动漫" start="20250502000000 +0800" stop="20250502001800 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="新动漫" start="20250502001800 +0800" stop="20250502010000 +0800">
-		<title lang="zh">小顽皮</title>
-	</programme>
-	<programme channel="新动漫" start="20250502010000 +0800" stop="20250502013300 +0800">
-		<title lang="zh">超能小精灵</title>
-	</programme>
-	<programme channel="新动漫" start="20250502013300 +0800" stop="20250502023000 +0800">
-		<title lang="zh">梦想总动员</title>
-	</programme>
-	<programme channel="新动漫" start="20250502023000 +0800" stop="20250502034500 +0800">
-		<title lang="zh">外星小子哆布哆</title>
-	</programme>
-	<programme channel="新动漫" start="20250502034500 +0800" stop="20250502041500 +0800">
-		<title lang="zh">山猫侠</title>
-	</programme>
-	<programme channel="新动漫" start="20250502041500 +0800" stop="20250502051800 +0800">
-		<title lang="zh">超级伊仔</title>
-	</programme>
-	<programme channel="新动漫" start="20250502051800 +0800" stop="20250502055700 +0800">
-		<title lang="zh">狐狸快跑</title>
-	</programme>
-	<programme channel="新动漫" start="20250502055700 +0800" stop="20250502062500 +0800">
-		<title lang="zh">小顽皮</title>
-	</programme>
-	<programme channel="新动漫" start="20250502062500 +0800" stop="20250502070200 +0800">
-		<title lang="zh">超能小精灵</title>
-	</programme>
-	<programme channel="新动漫" start="20250502070200 +0800" stop="20250502073000 +0800">
-		<title lang="zh">梦想总动员</title>
-	</programme>
-	<programme channel="新动漫" start="20250502073000 +0800" stop="20250502084500 +0800">
-		<title lang="zh">外星小子哆布哆</title>
-	</programme>
-	<programme channel="新动漫" start="20250502084500 +0800" stop="20250502093800 +0800">
-		<title lang="zh">山猫侠</title>
-	</programme>
-	<programme channel="新动漫" start="20250502093800 +0800" stop="20250502103600 +0800">
-		<title lang="zh">超级伊仔</title>
-	</programme>
-	<programme channel="新动漫" start="20250502103600 +0800" stop="20250502111500 +0800">
-		<title lang="zh">狐狸快跑</title>
-	</programme>
-	<programme channel="新动漫" start="20250502111500 +0800" stop="20250502114300 +0800">
-		<title lang="zh">小顽皮</title>
-	</programme>
-	<programme channel="新动漫" start="20250502114300 +0800" stop="20250502121700 +0800">
-		<title lang="zh">超能小精灵</title>
-	</programme>
-	<programme channel="新动漫" start="20250502121700 +0800" stop="20250502131300 +0800">
-		<title lang="zh">梦想总动员</title>
-	</programme>
-	<programme channel="新动漫" start="20250502131300 +0800" stop="20250502141800 +0800">
-		<title lang="zh">外星小子哆布哆</title>
-	</programme>
-	<programme channel="新动漫" start="20250502141800 +0800" stop="20250502151200 +0800">
-		<title lang="zh">山猫侠</title>
-	</programme>
-	<programme channel="新动漫" start="20250502151200 +0800" stop="20250502161400 +0800">
-		<title lang="zh">超级伊仔</title>
-	</programme>
-	<programme channel="新动漫" start="20250502161400 +0800" stop="20250502165500 +0800">
-		<title lang="zh">狐狸快跑</title>
-	</programme>
-	<programme channel="新动漫" start="20250502165500 +0800" stop="20250502173100 +0800">
-		<title lang="zh">小顽皮</title>
-	</programme>
-	<programme channel="新动漫" start="20250502173100 +0800" stop="20250502175600 +0800">
-		<title lang="zh">超能小精灵</title>
-	</programme>
-	<programme channel="新动漫" start="20250502175600 +0800" stop="20250502183500 +0800">
-		<title lang="zh">梦想总动员</title>
-	</programme>
-	<programme channel="新动漫" start="20250502183500 +0800" stop="20250502194200 +0800">
-		<title lang="zh">精灵梦叶罗丽</title>
-	</programme>
-	<programme channel="新动漫" start="20250502194200 +0800" stop="20250502200600 +0800">
-		<title lang="zh">石头娃</title>
-	</programme>
-	<programme channel="新动漫" start="20250502200600 +0800" stop="20250502203300 +0800">
-		<title lang="zh">太姥娘娘与白茶仙子</title>
-	</programme>
-	<programme channel="新动漫" start="20250502203300 +0800" stop="20250502214800 +0800">
-		<title lang="zh">外星小子哆布哆</title>
-	</programme>
-	<programme channel="新动漫" start="20250502214800 +0800" stop="20250502224200 +0800">
-		<title lang="zh">山猫侠</title>
-	</programme>
-	<programme channel="新动漫" start="20250502224200 +0800" stop="20250502234000 +0800">
-		<title lang="zh">超级伊仔</title>
-	</programme>
-	<programme channel="新动漫" start="20250502234000 +0800" stop="20250502235959 +0800">
-		<title lang="zh">狐狸快跑</title>
-	</programme>
 	<channel id="凤凰香港">
 		<display-name lang="zh">凤凰香港</display-name>
 	</channel>
@@ -25854,7 +25773,4 @@
 	<programme channel="绍兴文化影视" start="20250502232730 +0800" stop="20250502235959 +0800">
 		<title lang="zh">传奇</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
