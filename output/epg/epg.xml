@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250506113120 +0800">
+<tv date="20250506123021 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29646,6 +29646,9 @@
 	<programme channel="龙岩综合" start="20250506231500 +0800" stop="20250506235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -29823,7 +29826,4 @@
 	<programme channel="苏州生活资讯" start="20250506231000 +0800" stop="20250506235959 +0800">
 		<title lang="zh">再见</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
